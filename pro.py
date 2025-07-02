@@ -1,4 +1,5 @@
-for in range (10):
+for i in range (10):
+    print(i)
 def new
 class 
 while
